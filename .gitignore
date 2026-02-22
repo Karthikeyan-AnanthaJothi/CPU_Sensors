@@ -37,3 +37,12 @@ Deploy/
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Compiled Binaries & Debug Symbols (NEVER commit these)
+*.exe
+*.dll
+*.sys
+*.o
+*.obj
+*.pdb
+*.ilk
